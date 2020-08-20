@@ -14,6 +14,7 @@ I'm a Full-Stack Developer working in Hyderabad, India.
 
 
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmanikiran&show_icons=true)  
+ ![Lang Used](https://github-readme-stats.vercel.app/api/top-langs/?username=nmanikiran&layout=compact)
  
 
 🏡 [Website](https://nmanikiran.github.io/) | 🐦 [Twitter](twitter.com/nmanikiran) | 👔 [LinkedIn](https://in.linkedin.com/in/nmanikiran) | [HackerRank](https://www.hackerrank.com/nmanikiran)

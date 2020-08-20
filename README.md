@@ -12,10 +12,14 @@ I'm a Full-Stack Developer working in Hyderabad, India.
 - 📫 Reach me: [@nmanikiran](twitter.com/nmanikiran)
 - ⚡ Fun fact: I'm indian movie buff
 
-
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nmanikiran&show_icons=true)  
- ![Lang Used](https://github-readme-stats.vercel.app/api/top-langs/?username=nmanikiran&layout=compact)
+### GitHub Stats
  
+ <img src="https://github-readme-stats.vercel.app/api?username=nmanikiran&show_icons=true" alt="GitHub stats"  align="left"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nmanikiran&layout=compact" alt="top-langs" />
+ 
+ 
+ 
+ #### Get In Touch
 
 🏡 [Website](https://nmanikiran.github.io/) | 🐦 [Twitter](twitter.com/nmanikiran) | 👔 [LinkedIn](https://in.linkedin.com/in/nmanikiran) | [HackerRank](https://www.hackerrank.com/nmanikiran)
 
